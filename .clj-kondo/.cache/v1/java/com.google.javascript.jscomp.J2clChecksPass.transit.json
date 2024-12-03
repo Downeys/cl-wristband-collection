@@ -1,1 +1,1 @@
-["^ ","~:members",["^ ","visit",["~#set",[["^ ","~:flags",["^2",["~:method","~:public"]]]]],"process",["^2",[["^ ","^3",["^2",["^4","^5"]]]]]]]
+["^ ","~:members",["^ ","visit",["~#set",[["^ ","~:flags",["^2",["~:method","~:public"]]]]],"process",["^2",[["^ ","^3",["^2",["^4","^5"]]]]],"J2CL_REFERENCE_EQUALITY",["^2",[["^ ","^3",["^2",["~:static","~:field","~:final"]]]]],"REFERENCE_EQUALITY_TYPE_PATTERNS",["^2",[["^ ","^3",["^2",["^8","^9","^:"]]]]],"J2clChecksPass",["^2",[["^ ","^3",["^2",["^4"]]]]]]]

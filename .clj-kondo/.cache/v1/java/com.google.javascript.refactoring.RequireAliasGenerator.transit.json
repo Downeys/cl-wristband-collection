@@ -1,1 +1,1 @@
-["^ ","~:members",["^ ","iterator",["~#set",[["^ ","~:flags",["^2",["~:method","~:public"]]]]]]]
+["^ ","~:members",["^ ","over",["~#set",[["^ ","~:flags",["^2",["~:method","~:static"]]]]],"iterator",["^2",[["^ ","^3",["^2",["^4","~:public"]]]]],"computeNext",["^2",[["^ ","^3",["^2",["^4","~:protected"]]]]]]]

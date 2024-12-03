@@ -1,1 +1,1 @@
-["^ ","~:members",["^ ","javascriptEscaper",["~#set",[["^ ","~:flags",["^2",["~:method","~:public","~:static"]]]]],"appendWithJavascriptEscaper",["^2",[["^ ","^3",["^2",["^4","^5","^6"]]]]]]]
+["^ ","~:members",["^ ","JavaScriptEscaper",["~#set",[["^ ","~:flags",["^2",["~:method"]]]]],"javascriptEscaper",["^2",[["^ ","^3",["^2",["^4","~:public","~:static"]]]]],"appendWithJavascriptEscaper",["^2",[["^ ","^3",["^2",["^4","^6","^7"]]]]],"escapeUnsafe",["^2",[["^ ","^3",["^2",["^4","~:protected"]]]]],"appendTo",["^2",[["^ ","^3",["^2",["^4"]]]]]]]
